@@ -1,3 +1,5 @@
+github.com/komem3/cmpcheck v0.0.0-20210410151635-a640e6c61681 h1:Xxu48MyyEVU914t2rVT3mwTe8z2AEVfKhuYMhUvgl1I=
+github.com/komem3/cmpcheck v0.0.0-20210410151635-a640e6c61681/go.mod h1:ZdUcUE3VD546kcS32fKpw26MNJgmXorY3OPXsk+1VoQ=
 github.com/komem3/ctxfirst v0.0.0-20210405150435-78c4fb6f4c34 h1:vzkLlEvRxcP6U/Z4xopbChS22usnX0WcxcHcRwxvgbI=
 github.com/komem3/ctxfirst v0.0.0-20210405150435-78c4fb6f4c34/go.mod h1:9jdPRIFM8M6WnNzSOV/OD199kdyk3cQzzauaN7XbH9A=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
